@@ -9,11 +9,17 @@ I'm a passionate Python Developer with over 3 years of experience. I specialize 
 ## Education
 - **BCA**
 - **MCA**
+  - Rank 1 in Final Year Project
+- **Final Year Project**: Developed using MSSQL and ASP.NET
 
+## Achievements & Certifications
+- **IITM Advanced Professional Program**
+- **Programming with Master Data Science Program** with Guvi
+- [Salesforce Trailblazer](https://www.salesforce.com/trailblazer/mahi77)
 
 ## Skills
 ### Languages
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) (High Priority)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
