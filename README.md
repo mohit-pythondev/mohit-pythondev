@@ -6,12 +6,17 @@ I'm a passionate Python Developer with over 3 years of experience. I specialize 
 - 👨‍💻 All of my projects are available at [my GitHub](https://github.com/mohit-pythondev).
 - 💬 Feel free to reach out if you have any questions or opportunities.
 
+## Education
+- **BCA**
+- **MCA**
+
+
 ## Skills
 ### Languages
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) (High Priority)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -22,6 +27,7 @@ I'm a passionate Python Developer with over 3 years of experience. I specialize 
 ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
+![Tkinter](https://img.shields.io/badge/-Tkinter-333333?style=flat&logo=python)
 ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery)
 ![Ajax](https://img.shields.io/badge/-Ajax-333333?style=flat&logo=ajax)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
