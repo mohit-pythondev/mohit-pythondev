@@ -19,7 +19,7 @@ I'm a passionate Python Developer with over 3 years of experience. I specialize 
 
 ## Skills
 ### Languages
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) (High Priority)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
