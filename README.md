@@ -1,6 +1,6 @@
 # Hi there, I'm Mohit! 👋
 
-I'm a passionate Python Developer with over 3 years of experience. I specialize in backend development and have a strong knowledge of databases such as MySQL and MongoDB. Currently based in Mumbai.
+I'm a passionate Python Developer with over 4 years of experience. I specialize in backend development and have a strong knowledge of databases such as MySQL and MongoDB. Currently based in Mumbai.
 
 - 🌱 I’m continuously learning and improving my skills in various technologies.
 - 👨‍💻 All of my projects are available at [my GitHub](https://github.com/mohit-pythondev).
